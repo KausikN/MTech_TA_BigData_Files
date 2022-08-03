@@ -1,8 +1,0 @@
-PubSub Guide:
-https://cloud.google.com/pubsub/docs/create-topic-client-libraries
-
-PubSub Python:
-http://www.theappliedarchitect.com/setting-up-gcp-pub-sub-integration-with-python/
-
-PubSub + Cloud Function Guide:
-https://cloud.google.com/functions/docs/tutorials/pubsub#functions-prepare-environment-python
